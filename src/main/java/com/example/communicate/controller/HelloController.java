@@ -6,6 +6,10 @@ package com.example.communicate.controller;
 public class HelloController {
     public static void main(String[] args) {
 
+
+
+
+
     }
 
 }
